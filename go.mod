@@ -1,3 +1,3 @@
-module github.com/jacksonopp/go-reading-files
+module github.com/jacksonopp/blogposts
 
 go 1.16
